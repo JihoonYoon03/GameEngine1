@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/XT/WA7EFAYVOG2IBJYLUV1BRB.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/7R/ET65CKDBL18WCBX1DDQ7HT.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/OF/CCBX728EJT53US901DGGAD.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/7D/9JAP63QOWAGY6B666CFR35.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/LF/2G2T515S0V2YSR46VDQVNG.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/O3/DV78U3I3JW3W4MVG17MQC9.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/OH/7H68IA0DOL4HTME31M1JR7.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/MQ/DW0D35TT8Z75XM1Y6RLB25.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/YJ/5KX8Z50FG9S3ZVAZ352V4I.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/VO/KPXUTWRTC39H6G0O8TIE0M.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/EW/EOLERYNLOUOCZV38559O6F.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/YY/GIGTHRGK9BLD40P0TPV9F6.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/9R/H990S3MUVWA0H718SMM3EF.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/92/CGWB3MLPUR9E1BSYHS9USI.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/Q2/KH0KCH8GJZLG08MVNPCWYF.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/VH/Y2GBNPSVF13PTIZKRAFHSK.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/HV/VLJHGJVRVRLHPPI2PMHF59.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/VN/3TMWAGA53H3T92ONGQ6P20.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/E4/8EQTPL6KN2N9W486VPLJZD.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/ZB/TWEJZQ2I7OFPK7P42V5C7Y.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HD/FTBYI4B1YR4D5ODK55GIXI.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/5X/UBGEXPV0UUKZ4W6ZXV2TOF.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/M7/X3F2UBFC4DL6VMXGLJY74E.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/V0/I20PXIBWKLL8FWVWI866TX.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/PQ/R2FT0HTMBCZD8AIQCS3RJD.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8P/T0YGODF74K1QAELMVGE5AJ.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/07/WBY055JBESA4O0JPTERTVI.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/82/GOXQYGONF53QGPWAEH588O.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/WW/217ND30DVFD4UKD4KPW683.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/LI/3Y0SVKZB6958E2X0WGZJSC.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/6V/6OC49IFW7BKQ9UEDXLB647.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/PJ/FLVJA32H8B0KWLMY1TO61U.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/CI/MOPJ9DUUEXMWQO4PESYPTP.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/KH/M1VMPKEPT4QKZM1GBVOOEU.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/L5/NWQ5J8W4IGJZ21TEVKLT43.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/QK/99D0KRQHNS6JLE442IJH52.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/AT/WU1L3WXX47Y85AGVY7TRA9.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025/First/HelloUE/Content/MyMaps/BrickHouseMap.umap"
+			]
+		}
+	]
+}
