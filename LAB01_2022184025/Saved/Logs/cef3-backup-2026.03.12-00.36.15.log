@@ -1,0 +1,6 @@
+[7392:3864:0312/093325.644:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7392:8120:0312/093325.671:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7392:3864:0312/093325.689:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7392:3864:0312/093327.244:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[9260:18428:0312/093328.582:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E63AC542E85069FB63FE7D3B8D04BBAD will be ignored
+[7392:3864:0312/093615.391:ERROR:device_event_log_impl.cc(196)] [09:36:15.383] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
